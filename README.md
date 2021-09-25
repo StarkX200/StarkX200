@@ -20,5 +20,3 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<p align="center">
-<img src="https://telegra.ph/file/2f913d56680be45df386c.jpg" alt="STARK">
