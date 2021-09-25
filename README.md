@@ -18,3 +18,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=XD-STARK&theme=highcontrast" align="center">
 </p>
+
+
+<p align="center">
+<img src="https://telegra.ph/file/2f913d56680be45df386c.jpg" alt="STARK">
